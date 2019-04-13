@@ -1,2 +1,2 @@
-backup.txt
-senhas.txt
+backup
+senhas
